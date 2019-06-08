@@ -1,0 +1,18 @@
+Q1. Explain concept of recycle bin.
+ans- When we delete any directory or file, we are actually moving it from its path to hard disk. So, when we delete it, it moves to hard disk and recycle bin stores its pointer. That's why even though the directory or file is of large size it can easily deleted and recyle bin of limited size can easily stores it's pointer. 
+
+
+Q2. Why their is a difference in sepetember month of calendar of year 1752 ?
+ans- In year 1752 on 3rd september the calendar format was changed from Julian to Gregorian and as the Gregorian calender is 11 days ahead of the Julian calender, so 3rd sept is changed to 14th sept. The Gregorian calender is most used now-a-days, that's why our calender skipped 11 days in september in year 1752.
+
+
+Q3. How to write in a directory ?
+ans- Write in a directory means to make a directory or delete a directory or to make files in a directory. Directory is a folder and it cannot be used as a text editor to write a text in it. Directory can store files and other directories. Write is a permission of security in files which gives user the access of creating and removing a file or directory.
+
+
+Q4. Explain shebang.
+ans- The line: #!/usr/bin/python. is called the 'shebang' and it indicates the path to the interpreter binary that will be used to interpret the rest of the commands in the file. It is usually the first line of a script.  It is nothing but the absolute path to the Bash interpreter. It consists of a number sign and an exclamation point character (#!), followed by the full path to the interpreter such as /bin/bash. All scripts under Linux execute using the interpreter specified on a first line.
+
+
+Q5. Explain deadcode.
+ans- In computer programming, dead code is a section in the source code of a program which is executed but whose result is never used in any other computation. The execution of dead code wastes computation time and memory. So, it is important to remove dead codes. To the point, dead code is a code which is never executed.
