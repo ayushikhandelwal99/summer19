@@ -1,3 +1,7 @@
-Question--> Why some websites do not show their content in iframe?
+Question--> Why some websites do not show their content in iframe andhow can we solve it?
 ans-->  An IFrame (Inline Frame) is an HTML document embedded inside another HTML document on a website. The IFrame HTML element is often used to insert content from another source, such as an advertisement, into a Web page. The attackers inserted IFrame code into the saved search results of legitimate websites.
         As Frames can cause problems for search engines because they don't correspond to the conceptual model of the web, some websites do not let iframe to show their content.
+   
+        This problem occurs when a page loaded over https is requested an insecure resource. So, your resource has to be loaded via https instead of http. 
+  
+        
